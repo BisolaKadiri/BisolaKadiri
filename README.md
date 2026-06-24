@@ -9,7 +9,8 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/kadiri-bisola-"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:kadiribisola7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:kadiribisola7@gmail.com"><img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail"></a>
+  <a href="08101099975"><img src="https://img.shields.io/badge/Contact-yellow?style=for-the-badge&logo=contact"></a>
 </p>
 
 ## 🚀 About Me 
