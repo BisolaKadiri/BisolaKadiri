@@ -20,7 +20,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy reading. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### <a href="https://BisolaKadiri.github.io/">
+<a href="https://BisolaKadiri.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
       
@@ -35,6 +35,11 @@ When I'm not working with data, I enjoy reading. I love the "aha!" moment when d
 - Machine Learning with scikit-learn (classification & regression)
 - Fraud detection modelling using Python
 - Advanced DAX for Power BI
+
+  ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BisolaKadiri&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🛠️ Technical Skillset
 
