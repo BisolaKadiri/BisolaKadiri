@@ -49,7 +49,7 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
 | Retail Sales Performance Dashboard | SQL, Power BI | Business Intelligence |
 | Customer Segmentation | Python | Marketing Analytics |
 | Sales Forecasting | Python | Forecasting |
-| Pricing Analytics | Wxcel, Python, SQL | Pricing Analytics |
+| Pricing Analytics | Excel, Python, SQL | Pricing Analytics |
 
 ## Currently Learning 
 
@@ -61,9 +61,9 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
 
 - Sales Analytics
 - Commercial Analytics
-- Business Intelligence
+- Business Intelligence & Reporting
 - Pricing & Revenue Analytics
-- Customer Insights
+- Customer Insights & Segmentation
 
 ## Tools & Technologies
 
