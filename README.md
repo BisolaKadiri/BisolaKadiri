@@ -15,7 +15,7 @@ Building Real Business Case Studies" alt="Typing SVG" />
   <a href="mailto:kadiribisola7@gmail.com"><img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 I'm a Data Analyst with a growing focus on Sales Analytics and Business Intelligence, passionate about helping businesses turn data into profitable decisions.
 
 I enjoy working across Excel, SQL, Power BI, and Python to transform messy datasets into actionable insights, interactive dashboards, and business recommendations.
