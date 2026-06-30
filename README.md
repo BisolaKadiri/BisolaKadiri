@@ -41,7 +41,7 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
 🎯 Preparing for Remote Data Analyst Opportunities
 - Building portfolio projects focused on Sales Analytics and Commercial Intelligence.
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Tools | Business Focus |
 |----------|-------|----------------|
@@ -57,7 +57,7 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
 - Advanced DAX for executive Power BI dashboards
 - Improving business storytelling and dashboard design
 
- ## 💼 Interested In
+ ## Interested In
 
 - Sales Analytics
 - Commercial Analytics
