@@ -3,7 +3,10 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Sales Analytics | Business Intelligence
+Helping Businesses Make Better Decisions with Data
+SQL • Power BI • Python • Excel
+Building Real Business Case Studies" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,35 +16,59 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a Data Analyst with a growing focus on Sales Analytics and Business Intelligence, passionate about helping businesses turn data into profitable decisions.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I enjoy working across Excel, SQL, Power BI, and Python to transform messy datasets into actionable insights, interactive dashboards, and business recommendations.
 
-When I'm not working with data, I enjoy reading. I love the "aha!" moment when data reveals something new and useful.
+I'm particularly interested in analyzing sales performance, customer behaviour, pricing strategies, and operational efficiency to help businesses grow.
+
+Beyond technical skills, I enjoy communicating insights in ways decision-makers can understand and act on. I'm currently documenting my analytics journey publicly while building real-world business case studies.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 <a href="https://BisolaKadiri.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Current Focus
 
-- **Data Projects:** Building end-to-end projects that solve real business problems from raw data to dashboard and sharing the full process publicly on GitHub.  
-- **Building in Public:** Documenting my data analytics journey openly, including what works, what doesn't, and lessons learned along the way.
-- **Knowledge Sharing:**  Creating content that breaks down everything I've learned since breaking into tech, making data analytics more accessible for others on the same path.
+📊 Zion Bookstore Sales Analytics
+- Building an end-to-end sales analytics solution using Excel, SQL, Python, and Power BI.
+
+📈 Executive Sales Dashboard
+- Developing an interactive Power BI dashboard to monitor business KPIs and sales performance.
+
+📝 Building in Public
+- Sharing my analytics projects, lessons, and career journey on LinkedIn and GitHub.
+
+🎯 Preparing for Remote Data Analyst Opportunities
+- Building portfolio projects focused on Sales Analytics and Commercial Intelligence.
+
+## 📂 Featured Projects
+
+| Project | Tools | Business Focus |
+|----------|-------|----------------|
+| Zion Bookstore Sales Analytics | Excel, SQL, Power BI, Python | Sales Analytics |
+| Retail Executive Dashboard | Power BI | Business Intelligence |
+| Customer Segmentation | Python | Marketing Analytics |
+| Sales Forecasting | Python | Forecasting |
+| Insurance Premium Prediction | Python | Predictive Analytics |
 
 ## 🌱 Currently Learning 
 
-- Machine Learning with scikit-learn (classification & regression)
-- Fraud detection modelling using Python
-- Advanced DAX for Power BI
+- Building predictive sales models using scikit-learn
+- Advanced DAX for executive Power BI dashboards
+- Improving business storytelling and dashboard design
 
-  ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BisolaKadiri&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+ ## 💼 Interested In
 
-## 🛠️ Technical Skillset
+- Sales Analytics
+- Commercial Analytics
+- Business Intelligence
+- Pricing Analytics
+- Revenue Analytics
+- Customer Insights
+
+## Tools & Technologies
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
