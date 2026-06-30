@@ -1,12 +1,10 @@
 ## Hi there, I'm Bisola 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Sales Analytics | Business Intelligence
-Helping Businesses Make Better Decisions with Data
-SQL • Power BI • Python • Excel
-Building Real Business Case Studies" alt="Typing SVG" />
+  <h3>Sales Analytics | Business Intelligence</h3>
+  <p>Helping Businesses Make Better Decisions with Data</p>
+  <p>SQL • Power BI • Python • Excel</p>
+  <p>Building Real Business Case Studies</p>
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -29,7 +27,7 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
   <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
       
-## 🔭 Current Focus
+## Current Focus
 
 📊 Zion Bookstore Sales Analytics
 - Building an end-to-end sales analytics solution using Excel, SQL, Python, and Power BI.
@@ -48,12 +46,12 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
 | Project | Tools | Business Focus |
 |----------|-------|----------------|
 | Zion Bookstore Sales Analytics | Excel, SQL, Power BI, Python | Sales Analytics |
-| Retail Executive Dashboard | Power BI | Business Intelligence |
+| Retail Sales Performance Dashboard | SQL, Power BI | Business Intelligence |
 | Customer Segmentation | Python | Marketing Analytics |
 | Sales Forecasting | Python | Forecasting |
-| Insurance Premium Prediction | Python | Predictive Analytics |
+| Pricing Analytics | Wxcel, Python, SQL | Pricing Analytics |
 
-## 🌱 Currently Learning 
+## Currently Learning 
 
 - Building predictive sales models using scikit-learn
 - Advanced DAX for executive Power BI dashboards
@@ -64,8 +62,7 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
 - Sales Analytics
 - Commercial Analytics
 - Business Intelligence
-- Pricing Analytics
-- Revenue Analytics
+- Pricing & Revenue Analytics
 - Customer Insights
 
 ## Tools & Technologies
@@ -88,7 +85,6 @@ Beyond technical skills, I enjoy communicating insights in ways decision-makers 
 #### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
